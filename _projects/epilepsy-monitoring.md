@@ -1,13 +1,13 @@
 ---
-title: Portable EEG Montoring Device
+title: A Cool Job We Did
 date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
 banner_image: "/uploads/2022/05/21/pexels-rodolfo-quira-s-2219024.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+sub_heading: These are some things we did in this job
 tags:
-- engineering
-- research
+- A thing
+- A thing 2
 slug: ''
 
 ---
