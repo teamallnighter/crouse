@@ -10,7 +10,7 @@ partners:
 services:
 - description: description of services here
   heading: Service 1
-  icon: ''
+  icon: "/uploads/2022/05/21/trowel-bricks.svg"
 - description: Description of Service 2
   heading: Service 2
   icon: "/uploads/2022/05/21/trowel.svg"
