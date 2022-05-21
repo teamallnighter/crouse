@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Service 3
+  description: Description of service 3
+  icon: "/uploads/2022/05/21/helmet-safety.svg"
 - description: description of services here
   heading: Service 1
   icon: "/uploads/2022/05/21/trowel-bricks.svg"
