@@ -8,14 +8,12 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: description of services here
+  heading: Service 1
+  icon: ''
+- description: Description of Service 2
+  heading: Service 2
+  icon: "/uploads/2022/05/21/trowel.svg"
 sub_heading: A Catchy Heading
 textline: "No job to big or to small \n\nOra et Labora"
 hero_button:
