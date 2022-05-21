@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2022/05/21/carboncure_concrete_yyc_calgary_airport_paving.jpg"
+banner_image: "/uploads/2022/05/21/pexels-photo-2463329.jpeg"
 layout: landing-page
 heading: Crouse Concrete Solutions
 partners:
