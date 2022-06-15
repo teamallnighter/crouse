@@ -20,3 +20,5 @@ menu:
 ## Contact Information
 
 {% include address.html %}
+
+{% include contact_form.html %}
