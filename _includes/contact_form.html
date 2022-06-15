@@ -9,16 +9,24 @@
       Don’t fill this out if you’re human: <input name="bot-field" />
     </label>
   </p>
-  <p>
-    <label>
-      Email: <input type="text" name="email" />
-    </label>
-  </p>
-  <p>
-    <label>
-      Message: <textarea name="message"></textarea>
-    </label>
-  </p>
+      <div class="ccs-form-group">
+            <label for="Name" class="ccs-form-label">Your name</label>
+            <div class="ccs-input-group">
+                <input type="text" id="Name" name="Name" class="ccs-form-control" required>
+            </div>
+        </div>
+      <div class="ccs-form-group">
+            <label for="Email" class="ccs-form-label">Your email address</label>
+            <div class="ccs-input-group">
+                <input type="email" id="Email" name="Email" class="ccs-form-control" required>
+            </div>
+        </div>
+        <div class="ccs-form-group">
+            <label for="Message" class="ccs-form-label">Your message</label>
+            <div class="ccs-input-group">
+                <textarea id="Message" name="Message" class="ccs-form-control" rows="6" maxlength="3000" required></textarea>
+            </div>
+        </div>
   <p>
     <button type="submit">Send</button>
   </p>
