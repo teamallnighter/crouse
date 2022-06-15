@@ -17,7 +17,7 @@ menu:
 * **Saturdays**, 8:00am to 5:00pm EST
 * **Sundays**, 9:00am to 12:00pm EST
 
-## Contact Information
+## Contact Informatio
 
 {% include address.html %}
 
