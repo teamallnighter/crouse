@@ -14,8 +14,8 @@ services:
 - description: ''
   heading: 'Exposed Aggregate '
   icon: "/uploads/2022/05/21/trowel.svg"
-- heading: Service 3
-  description: Description of service 3
+- heading: 'Stamped Aggregate '
+  description: ''
   icon: "/uploads/2022/05/21/helmet-safety.svg"
 sub_heading: The solution to your concrete needs
 textline: "No job to big or to small \n\nOra et Labora"
