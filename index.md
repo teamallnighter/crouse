@@ -8,16 +8,16 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- description: ''
+  heading: Broom Streak
+  icon: "/uploads/2022/05/21/trowel-bricks.svg"
+- description: ''
+  heading: 'Exposed Aggregate '
+  icon: "/uploads/2022/05/21/trowel.svg"
 - heading: Service 3
   description: Description of service 3
   icon: "/uploads/2022/05/21/helmet-safety.svg"
-- description: description of services here
-  heading: Service 1
-  icon: "/uploads/2022/05/21/trowel-bricks.svg"
-- description: Description of Service 2
-  heading: Service 2
-  icon: "/uploads/2022/05/21/trowel.svg"
-sub_heading: A Catchy Heading
+sub_heading: The solution to your concrete needs
 textline: "No job to big or to small \n\nOra et Labora"
 hero_button:
   text: Learn more
