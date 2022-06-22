@@ -18,7 +18,10 @@ services:
   description: ''
   icon: "/uploads/2022/05/21/helmet-safety.svg"
 sub_heading: The solution to your concrete needs
-textline: "No job to big or to small \n\nOra et Labora"
+textline: |-
+  As a family owned and operated business we work endlessly to ensure the job is done right, the first time!
+
+  From broomed, stamped, to exposed!
 hero_button:
   text: Learn more
   href: "/about"
