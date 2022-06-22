@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2022/06/21/concrete-wall-background-2021-08-30-09-51-36-utc.jpg"
+banner_image: "/uploads/2022/06/22/concrete-wall-background-2021-08-30-09-51-36-utc.png"
 layout: landing-page
 heading: Crouse Concrete Solutions
 partners:
