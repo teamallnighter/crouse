@@ -3,11 +3,11 @@ title: Home
 banner_image: "/uploads/2022/06/22/concrete-wall-background-2021-08-30-09-51-36-utc.png"
 layout: landing-page
 heading: Crouse Concrete Solutions
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
+- heading: 'Basement Finishing '
+  description: ''
+  icon: "/uploads/2022/06/26/house-chimney-window-solid.png"
 - description: ''
   heading: Broom Streak
   icon: "/uploads/2022/05/21/trowel-bricks.svg"
