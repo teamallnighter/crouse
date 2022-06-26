@@ -5,6 +5,9 @@ layout: landing-page
 heading: Crouse Concrete Solutions
 partners: []
 services:
+- heading: Garages
+  description: ''
+  icon: "/uploads/2022/06/26/garage-car-solid.png"
 - heading: 'Basement Finishing '
   description: ''
   icon: "/uploads/2022/06/26/house-chimney-window-solid.png"
